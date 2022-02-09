@@ -73,7 +73,7 @@ In testing, we've seen AWS t2.micro instances take upwards of 2k connections, wh
 The proxy is pre-configured for a 1% donation. This is easily toggled inside of it's configuration. If you'd like to make a one time donation, the addresses are as follows:
 
 * XMR - 43vH9PSSEd5UK2EeLNPKhQQm3QaGMHBeTYKTpca5VY1P7AwVZ9MMDksaQg9FgRRqi7ERiebk5kuHAQ5kCx53ndxG9w4yh8F
-* BTC - ...
+* BTC - bc1qsnj42w5qyphp77e9rm4kmhcjwwmkds9tghcv0h
 
 ## Installation/Configuration Assistance
 
